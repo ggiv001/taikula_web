@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.ivpn.client",
+    "sha256_cert_fingerprints":
+    ["2A:D6:1C:C7:B1:44:CD:0E:F3:D0:B8:E3:E4:C3:34:AE:9B:BD:73:40:DF:10:96:34:A6:8D:1E:57:29:9C:35:23"]
+  }
+}]

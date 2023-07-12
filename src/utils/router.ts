@@ -1,0 +1,20 @@
+export const Router = {
+    IndexPage: "/",
+    InvitePage: "/i/:code",
+    AccountPage: "/account",
+    LoginPage: "/account/login",
+    RegisterPage: "/account/register",
+    ShareRegisterPage: "/account/share-register",
+    PlanPage: "/account/plan",
+    PlanSelectPage: "/account/plan-select",
+    PayResultPage: "/account/pay-result",
+    PayPage: "/account/pay",
+    PartnerPage: "/partner",
+    PartnerApplyPage: "/partner/apply",
+    PartnerSubListPage: "/partner/sublist",
+    TosPage: "/tos",
+    PrivacyPage: "/privacy",
+    WithdrawPage: "/partner/withdraw-list",
+    DownloadPage: "/download",
+    InvitationPage:"/account/invitation"
+}
